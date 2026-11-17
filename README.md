@@ -89,6 +89,12 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 - **Sep 2026 · [DesktopFly](https://github.com/rogeryeoh49-bot/digital-fly)** 🪰 — A desktop fly with brain-inspired simulation and movement. Latest: [Release v1.1.0: MaleCNS locomotion and smooth state transitions](https://github.com/rogeryeoh49-bot/digital-fly/commit/32b00011e83c3dc85fa3ea0b3934155b04f1635d).
 <!-- RECENT_ACTIVITY_END -->
 
+### On Repeat 🎧
+
+A little soundtrack behind the code.
+
+[![Listen to my favorite songs on Apple Music](https://img.shields.io/badge/Apple_Music-My_Favorite_Songs-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://embed.music.apple.com/cn/playlist/favorite-songs/pl.u-zpUeg6G5Xl)
+
 ### Website status
 
 🌐 **Personal website — temporarily unavailable**  
