@@ -52,6 +52,11 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 
 > **Build something useful. Understand why it works. Keep improving it.**
 
+### Website status
+
+🌐 **Personal website — temporarily unavailable**  
+`rogeryeoh.dpdns.org` is currently returning HTTP 403. I'm investigating a possible Cloudflare-related access issue and considering a move to another domain.
+
 ---
 
 <div align="center">
