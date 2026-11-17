@@ -47,9 +47,18 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 ### GitHub at a glance
 
 <!-- PROFILE_STATS_START -->
-[View my GitHub contribution activity](https://github.com/rogeryeoh49-bot?tab=overview) · [Explore my repositories and languages](https://github.com/rogeryeoh49-bot?tab=repositories)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
+    <img alt="Roger's GitHub contributions, repositories, stars, and pull requests" src="./assets/profile/overview.light.svg" width="100%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
+    <img alt="Programming languages across Roger's public source repositories" src="./assets/profile/languages.light.svg" width="100%" />
+  </picture>
+</div>
 
-<sub>GitHub statistics are being switched to repository-hosted SVG cards so they won't depend on a public image-rendering service. The cards will appear here after the first successful generation.</sub>
+<sub>Generated daily from GitHub data. Language breakdown reflects repository code, not proficiency. These cards are hosted in this repository.</sub>
 <!-- PROFILE_STATS_END -->
 
 ### What I'm exploring
