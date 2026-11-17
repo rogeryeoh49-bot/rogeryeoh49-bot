@@ -4,7 +4,7 @@
 
 **Independent Developer · Apple Platforms · AI & Machine Learning**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1400&color=79A8FF&center=true&vCenter=true&width=750&height=45&lines=Building+software+I+wish+already+existed;Turning+curiosity+into+working+products;Exploring+more+reliable+AI+systems" alt="Animated introduction: Building software I wish already existed; Turning curiosity into working products; Exploring more reliable AI systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3800&pause=1500&color=79A8FF&center=true&vCenter=true&width=800&height=45&lines=Open+source+wins.+Why+subscribe+to+free+radio%3F;I+build+what+I+wish+existed+%E2%80%94+curiosity+into+real+products.;ChatGPT+made+me+feel+like+I+could+build+anything." alt="Typing animation: Open source wins. Why subscribe to free radio? | I build what I wish existed — curiosity into real products. | ChatGPT made me feel like I could build anything." />
 
 I build practical tools, thoughtful interfaces, and experiments that help me understand how technology works.
 
