@@ -1,0 +1,43 @@
+name: Refresh recent project activity
+
+on:
+  push:
+    paths:
+      - .github/workflows/recent-activity.yml
+      - .github/scripts/update_recent_activity.py
+  schedule:
+    - cron: '07 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recent-project-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Refresh recent meaningful project activity
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update_recent_activity.py
+
+      - name: Commit updated README
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No activity changes to publish"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh recent project activity [skip ci]"
+          git push
