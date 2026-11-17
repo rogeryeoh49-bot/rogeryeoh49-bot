@@ -44,6 +44,25 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+### GitHub at a glance
+
+<div align="center">
+  <a href="https://github.com/rogeryeoh49-bot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rogeryeoh49-bot&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
+      <img height="175" alt="Roger's GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=rogeryeoh49-bot&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/rogeryeoh49-bot?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeryeoh49-bot&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;hide_border=true" />
+      <img height="175" alt="Most used languages in Roger's public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeryeoh49-bot&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true" />
+    </picture>
+  </a>
+</div>
+
+<sub>Language percentages reflect code in public repositories, not proficiency. The statistics are rendered by an external service and may occasionally be unavailable.</sub>
+
 ### What I'm exploring
 
 - **Apple-platform development** — Designing native experiences that feel simple, fast, and useful.
