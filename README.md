@@ -46,22 +46,11 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 
 ### GitHub at a glance
 
-<div align="center">
-  <a href="https://github.com/rogeryeoh49-bot">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rogeryeoh49-bot&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
-      <img height="175" alt="Roger's GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=rogeryeoh49-bot&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/rogeryeoh49-bot?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeryeoh49-bot&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;hide_border=true" />
-      <img height="175" alt="Most used languages in Roger's public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeryeoh49-bot&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true" />
-    </picture>
-  </a>
-</div>
+<!-- PROFILE_STATS_START -->
+[View my GitHub contribution activity](https://github.com/rogeryeoh49-bot?tab=overview) · [Explore my repositories and languages](https://github.com/rogeryeoh49-bot?tab=repositories)
 
-<sub>Language percentages reflect code in public repositories, not proficiency. The statistics are rendered by an external service and may occasionally be unavailable.</sub>
+<sub>GitHub statistics are being switched to repository-hosted SVG cards so they won't depend on a public image-rendering service. The cards will appear here after the first successful generation.</sub>
+<!-- PROFILE_STATS_END -->
 
 ### What I'm exploring
 
