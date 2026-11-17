@@ -83,10 +83,10 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 ### Recent Activity & Projects
 
 <!-- RECENT_ACTIVITY_START -->
-- **Nov 2026 · [Radio DIAL 2.0](https://github.com/rogeryeoh49-bot/Radio-DIAL)** 📻 — Shipped a major update to my free macOS radio player with Cover Flow, a vintage-style FM receiver, new themes, and improved playback controls.
-- **Nov 2026 · [FrameFloat 1.1](https://github.com/rogeryeoh49-bot/FrameFloat)** 🖥️ — Added a compact display refresh-rate overlay, hover fading, and more flexible monitoring options.
-- **Oct 2026 · [CIE Paper Marking Skill](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill)** 🤖 — Built a reusable Codex skill for grading exam papers, annotating PDFs, and explaining mistakes.
-- **Sep 2026 · [DesktopFly 1.1](https://github.com/rogeryeoh49-bot/digital-fly)** 🪰 — Connected fruit-fly neural wiring data with simulated movement and a desktop creature.
+- **Nov 2026 · [Radio DIAL](https://github.com/rogeryeoh49-bot/Radio-DIAL)** 📻 — A free macOS radio and podcast player. Latest: [Release Radio Dial v2.0.0](https://github.com/rogeryeoh49-bot/Radio-DIAL/commit/24fc80f9306a0c18269ae3352042d846d443cc60).
+- **Nov 2026 · [FrameFloat](https://github.com/rogeryeoh49-bot/FrameFloat)** 🖥️ — A lightweight macOS refresh-rate monitor. Latest: [FrameFloat 1.1.0: add mini overlay and hover fade](https://github.com/rogeryeoh49-bot/FrameFloat/commit/d0f0e736f6686c49b621e43fb086a06fec2cb3f0).
+- **Oct 2026 · [CIE Paper Marking Skill](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill)** 🤖 — A Codex skill for grading exam papers and annotating PDFs. Latest: [Require score on original first page and document one-command installation](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill/commit/271fc893d19edf5d0990c6961b02d2b8bc7e8029).
+- **Sep 2026 · [DesktopFly](https://github.com/rogeryeoh49-bot/digital-fly)** 🪰 — A desktop fly with brain-inspired simulation and movement. Latest: [Release v1.1.0: MaleCNS locomotion and smooth state transitions](https://github.com/rogeryeoh49-bot/digital-fly/commit/32b00011e83c3dc85fa3ea0b3934155b04f1635d).
 <!-- RECENT_ACTIVITY_END -->
 
 ### Website status
