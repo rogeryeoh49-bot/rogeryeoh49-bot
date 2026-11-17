@@ -4,7 +4,7 @@
 
 **Independent Developer · AI & Machine Learning**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3800&pause=1500&color=79A8FF&center=true&vCenter=true&width=800&height=45&lines=Open+source+wins.+Why+pay+for+what+should+be+free%3F;I+build+what+I+wish+existed+%E2%80%94+curiosity+into+real+products.;ChatGPT+made+me+feel+like+I+could+build+anything." alt="Typing animation: Open source wins. Why pay for what should be free? | I build what I wish existed — curiosity into real products. | ChatGPT made me feel like I could build anything." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3800&pause=1500&color=79A8FF&center=true&vCenter=true&width=800&height=45&lines=Open+source+wins.+Why+pay+for+what+should+be+free%3F;I+build+what+I+wish+existed+%E2%80%94+curiosity+into+real+products.;ChatGPT+unlocked+GOD+MODE.+I+build+the+impossible." alt="Typing animation: Open source wins. Why pay for what should be free? | I build what I wish existed — curiosity into real products. | ChatGPT unlocked GOD MODE. I build the impossible." />
 
 I build practical tools, thoughtful interfaces, and experiments that help me understand how technology works.
 
