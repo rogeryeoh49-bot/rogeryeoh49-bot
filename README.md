@@ -80,13 +80,14 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 </div>
 <!-- PROFILE_STATS_END -->
 
-### What I'm exploring
+### Recent Activity & Projects
 
-- **Apple-platform development** — Designing native experiences that feel simple, fast, and useful.
-- **AI reliability** — Understanding why models make mistakes and how their outputs can be evaluated.
-- **Algorithms & experimentation** — Learning through projects, from game-tree search to signal processing.
-
-> **Build something useful. Understand why it works. Keep improving it.**
+<!-- RECENT_ACTIVITY_START -->
+- **Nov 2026 · [Radio DIAL 2.0](https://github.com/rogeryeoh49-bot/Radio-DIAL)** 📻 — Shipped a major update to my free macOS radio player with Cover Flow, a vintage-style FM receiver, new themes, and improved playback controls.
+- **Nov 2026 · [FrameFloat 1.1](https://github.com/rogeryeoh49-bot/FrameFloat)** 🖥️ — Added a compact display refresh-rate overlay, hover fading, and more flexible monitoring options.
+- **Oct 2026 · [CIE Paper Marking Skill](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill)** 🤖 — Built a reusable Codex skill for grading exam papers, annotating PDFs, and explaining mistakes.
+- **Sep 2026 · [DesktopFly 1.1](https://github.com/rogeryeoh49-bot/digital-fly)** 🪰 — Connected fruit-fly neural wiring data with simulated movement and a desktop creature.
+<!-- RECENT_ACTIVITY_END -->
 
 ### Website status
 
