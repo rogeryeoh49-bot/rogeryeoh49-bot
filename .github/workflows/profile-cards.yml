@@ -34,7 +34,7 @@ jobs:
           language-limit: 6
           commit: false
 
-      - name: Publish cards and activate them in the README
+      - name: Publish generated profile cards
         shell: bash
         run: |
           set -euo pipefail
@@ -42,33 +42,7 @@ jobs:
           test -s assets/profile/overview.light.svg
           test -s assets/profile/languages.dark.svg
           test -s assets/profile/languages.light.svg
-          python3 - <<'PY'
-          from pathlib import Path
-          p = Path("README.md")
-          text = p.read_text()
-          start = text.index("<!-- PROFILE_STATS_START -->")
-          end = text.index("<!-- PROFILE_STATS_END -->", start) + len("<!-- PROFILE_STATS_END -->")
-          replacement = """<!-- PROFILE_STATS_START -->
-          <table>
-            <tr>
-              <td width="50%" valign="top">
-                <picture>
-                  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
-                  <img alt="Roger's GitHub activity overview" src="./assets/profile/overview.light.svg" width="100%" />
-                </picture>
-              </td>
-              <td width="50%" valign="top">
-                <picture>
-                  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
-                  <img alt="Languages across Roger's public repositories" src="./assets/profile/languages.light.svg" width="100%" />
-                </picture>
-              </td>
-            </tr>
-          </table>
-          <!-- PROFILE_STATS_END -->"""
-          p.write_text(text[:start] + replacement + text[end:])
-          PY
-          git add README.md assets/profile/*.svg
+          git add assets/profile/*.svg
           if git diff --cached --quiet; then
             echo "No stats changes"
             exit 0
