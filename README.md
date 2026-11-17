@@ -93,9 +93,3 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 
 🌐 **Personal website — temporarily unavailable**  
 `rogeryeoh.dpdns.org` is currently returning HTTP 403. I'm investigating a possible Cloudflare-related access issue and considering a move to another domain.
-
----
-
-<div align="center">
-<sub>Built with curiosity. See the repositories above for source code, demos, and project notes.</sub>
-</div>
