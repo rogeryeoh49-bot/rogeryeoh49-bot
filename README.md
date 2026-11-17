@@ -68,22 +68,16 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 ### GitHub at a glance
 
 <!-- PROFILE_STATS_START -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
-        <img alt="Roger's GitHub activity overview" src="./assets/profile/overview.light.svg" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
-        <img alt="Languages across Roger's public repositories" src="./assets/profile/languages.light.svg" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
+    <img alt="Roger's GitHub activity overview" src="./assets/profile/overview.light.svg" width="53%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg" />
+    <img alt="Languages across Roger's public repositories" src="./assets/profile/languages.light.svg" width="42%" />
+  </picture>
+</div>
 <!-- PROFILE_STATS_END -->
 
 ### What I'm exploring
