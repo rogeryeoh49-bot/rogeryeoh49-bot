@@ -13,9 +13,9 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 
 </div>
 
-### Personal website: [rogeryeoh49-bot.github.io](https://rogeryeoh49-bot.github.io/)
+<h3 align="center">Personal website: <a href="https://rogeryeoh49-bot.github.io/">rogeryeoh49-bot.github.io</a></h3>
 
-<sub>My custom domain (<code>rogeryeoh.dpdns.org</code>) is still returning HTTP 403, and I'm waiting to hear back from Cloudflare. In the meantime, you can find my site on GitHub Pages at the link above.</sub>
+<p align="center"><sub>My custom domain (<code>rogeryeoh.dpdns.org</code>) is still returning HTTP 403, and I'm waiting to hear back from Cloudflare. In the meantime, you can find my site on GitHub Pages at the link above.</sub></p>
 
 ---
 
@@ -171,15 +171,12 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 
 ### Recent Activity & Projects
 
-<!-- RECENT_ACTIVITY_START -->
-- **Nov 2026 · [Radio DIAL](https://github.com/rogeryeoh49-bot/Radio-DIAL)** 📻 — A free macOS radio and podcast player. Latest: [Add interactive onboarding and Self Radio](https://github.com/rogeryeoh49-bot/Radio-DIAL/commit/8507de73d2ed2dde412dd5f753dc38216a587638).
-- **Nov 2026 · [FrameFloat](https://github.com/rogeryeoh49-bot/FrameFloat)** 🖥️ — A lightweight macOS refresh-rate monitor. Latest: [FrameFloat 1.1.0: add mini overlay and hover fade](https://github.com/rogeryeoh49-bot/FrameFloat/commit/d0f0e736f6686c49b621e43fb086a06fec2cb3f0).
-- **Oct 2026 · [CIE Paper Marking Skill](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill)** 🤖 — A Codex skill for grading exam papers and annotating PDFs. Latest: [Require score on original first page and document one-command installation](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill/commit/271fc893d19edf5d0990c6961b02d2b8bc7e8029).
-- **Sep 2026 · [DesktopFly](https://github.com/rogeryeoh49-bot/digital-fly)** 🪰 — A desktop fly with brain-inspired simulation and movement. Latest: [Release v1.1.0: MaleCNS locomotion and smooth state transitions](https://github.com/rogeryeoh49-bot/digital-fly/commit/32b00011e83c3dc85fa3ea0b3934155b04f1635d).
-<!-- RECENT_ACTIVITY_END -->
+<!-- RECENT_ACTIVITY_MANUAL -->
+- **Oct 30, 2026 · [FrameFloat](https://github.com/rogeryeoh49-bot/FrameFloat)** 🖥️ — [Published the source code and macOS installer](https://github.com/rogeryeoh49-bot/FrameFloat/commit/f659190406c5139dcfb5978008371704ed51d4e5) for a lightweight refresh-rate overlay.
+- **Oct 25, 2026 · [CIE Paper Marking Skill](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill)** 🤖 — [Documented one-command setup and put scores on the original first page](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill/commit/271fc893d19edf5d0990c6961b02d2b8bc7e8029).
 
 ---
 
 ### 🎧Music so good, even a devil may cry.👀
 
-<a href="https://music.apple.com/cn/playlist/favorite-songs/pl.u-zpUeg6G5Xl"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Apple_Music-My_Favorite_Songs-FA243C?style=for-the-badge&amp;logo=applemusic&amp;logoColor=white" /><img src="https://img.shields.io/badge/Apple_Music-My_Favorite_Songs-FFE4E9?style=for-the-badge&amp;logo=applemusic&amp;logoColor=C9183B" alt="Listen to my favorite songs on Apple Music" /></picture></a>
+<a href="https://music.apple.com/cn/playlist/favorite-songs/pl.u-zpUeg6G5Xl"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Apple%20Music%20Playlist-FA243C?style=flat-square&amp;logo=applemusic&amp;logoColor=white" /><img src="https://img.shields.io/badge/Apple%20Music%20Playlist-FFE4E9?style=flat-square&amp;logo=applemusic&amp;logoColor=C9183B" alt="Listen to my favorite songs on Apple Music" /></picture></a>
