@@ -74,6 +74,9 @@ def latest_substantive_commit(repo: str):
 
 def main() -> None:
     text = README.read_text(encoding="utf-8")
+    if "<!-- RECENT_ACTIVITY_MANUAL -->" in text and START not in text and END not in text:
+        print("Recent activity is curated manually")
+        return
     if text.count(START) != 1 or text.count(END) != 1 or text.index(START) > text.index(END):
         raise RuntimeError("Expected a single properly ordered activity section in README.md")
     candidates = [c for r in PROJECTS if (c := latest_substantive_commit(r))]
