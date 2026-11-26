@@ -13,6 +13,10 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 
 </div>
 
+**Personal website:** [rogeryeoh49-bot.github.io](https://rogeryeoh49-bot.github.io/)
+
+My custom domain (`rogeryeoh.dpdns.org`) is still returning HTTP 403, and I'm waiting to hear back from Cloudflare. In the meantime, you can find my site on GitHub Pages at the link above.
+
 ---
 
 ### You gotta see ... 👇
@@ -94,8 +98,3 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 ### 🎧Music so good, even a devil may cry.👀
 
 [![Listen to my favorite songs on Apple Music](https://img.shields.io/badge/Apple_Music-My_Favorite_Songs-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/cn/playlist/favorite-songs/pl.u-zpUeg6G5Xl)
-
-### Website status
-
-🌐 **Personal website — temporarily unavailable**  
-`rogeryeoh.dpdns.org` is currently returning HTTP 403. I'm investigating a possible Cloudflare-related access issue and considering a move to another domain.
