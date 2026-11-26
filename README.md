@@ -165,6 +165,12 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 </div>
 <!-- PROFILE_STATS_END -->
 
+#### GitHub Achievements
+
+<a href="https://github.com/rogeryeoh49-bot?achievement=starstruck&amp;tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" alt="Starstruck achievement" width="72" /></a>
+
+[View GitHub achievements](https://github.com/rogeryeoh49-bot?tab=achievements)
+
 ### Recent Activity & Projects
 
 <!-- RECENT_ACTIVITY_START -->
