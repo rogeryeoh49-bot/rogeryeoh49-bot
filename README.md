@@ -8,8 +8,8 @@
 
 I build practical tools, thoughtful interfaces, and experiments that help me understand how technology works.
 
-<a href="mailto:rogeryeoh49@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-Contact%20me-262B35?style=flat-square&amp;logo=gmail&amp;logoColor=white" /><img src="https://img.shields.io/badge/Email-Contact%20me-E8EDF4?style=flat-square&amp;logo=gmail&amp;logoColor=303946" alt="Email" /></picture></a>
-<a href="https://github.com/rogeryeoh49-bot/Radio-DIAL/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/macOS-Try%20Radio%20DIAL-262B35?style=flat-square&amp;logo=apple&amp;logoColor=white" /><img src="https://img.shields.io/badge/macOS-Try%20Radio%20DIAL-E8EDF4?style=flat-square&amp;logo=apple&amp;logoColor=303946" alt="Radio DIAL" /></picture></a>
+<a href="mailto:rogeryeoh49@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact%20me-262B35?style=flat-square&amp;logo=gmail&amp;logoColor=white" /><img src="https://img.shields.io/badge/Contact%20me-E8EDF4?style=flat-square&amp;logo=gmail&amp;logoColor=303946" alt="Email" /></picture></a>
+<a href="https://github.com/rogeryeoh49-bot/Radio-DIAL/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Try%20Radio%20DIAL-262B35?style=flat-square&amp;logo=apple&amp;logoColor=white" /><img src="https://img.shields.io/badge/Try%20Radio%20DIAL-E8EDF4?style=flat-square&amp;logo=apple&amp;logoColor=303946" alt="Radio DIAL" /></picture></a>
 
 </div>
 
