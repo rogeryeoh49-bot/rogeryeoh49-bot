@@ -15,7 +15,7 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 
 **Personal website:** [rogeryeoh49-bot.github.io](https://rogeryeoh49-bot.github.io/)
 
-My custom domain (`rogeryeoh.dpdns.org`) is still returning HTTP 403, and I'm waiting to hear back from Cloudflare. In the meantime, you can find my site on GitHub Pages at the link above.
+<sub>My custom domain (<code>rogeryeoh.dpdns.org</code>) is still returning HTTP 403, and I'm waiting to hear back from Cloudflare. In the meantime, you can find my site on GitHub Pages at the link above.</sub>
 
 ---
 
