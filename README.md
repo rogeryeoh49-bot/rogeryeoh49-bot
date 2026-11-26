@@ -40,33 +40,114 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 ### Things I Code With
 
 <p>
-  <img src="https://img.shields.io/badge/Swift-252B36?style=flat-square&logo=swift&logoColor=F05138" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-252B36?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Python-252B36?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-252B36?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-252B36?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-252B36?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-252B36?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/Objective--C-252B36?style=flat-square&logo=apple&logoColor=B8C6DD" alt="Objective-C" />
-  <img src="https://img.shields.io/badge/Ruby-252B36?style=flat-square&logo=ruby&logoColor=CC342D" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Bash-252B36?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
-  <img src="https://img.shields.io/badge/Xcode-252B36?style=flat-square&logo=xcode&logoColor=147EFB" alt="Xcode" />
-  <img src="https://img.shields.io/badge/AppKit-252B36?style=flat-square&logo=apple&logoColor=A4BDF5" alt="AppKit" />
-  <img src="https://img.shields.io/badge/CloudKit-252B36?style=flat-square&logo=icloud&logoColor=3693F3" alt="CloudKit" />
-  <img src="https://img.shields.io/badge/AVFoundation-252B36?style=flat-square&logo=applemusic&logoColor=FC3C44" alt="AVFoundation" />
-  <img src="https://img.shields.io/badge/Electron-252B36?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
-  <img src="https://img.shields.io/badge/Node.js-252B36?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Three.js-252B36?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
-  <img src="https://img.shields.io/badge/FFmpeg-252B36?style=flat-square&logo=ffmpeg&logoColor=007808" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/Playwright-252B36?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
-  <img src="https://img.shields.io/badge/NumPy-252B36?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Git-252B36?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-252B36?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-252B36?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Homebrew-252B36?style=flat-square&logo=homebrew&logoColor=FBB040" alt="Homebrew" />
-  <img src="https://img.shields.io/badge/ChatGPT-252B36?style=flat-square&logo=openai&logoColor=10A37F" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-252B36?style=flat-square&logo=openai&logoColor=10A37F" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Ollama-252B36?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swift-252B36?style=flat-square&amp;logo=swift&amp;logoColor=F05138" />
+    <img src="https://img.shields.io/badge/Swift-E8EDF4?style=flat-square&amp;logo=swift&amp;logoColor=C53E29" alt="Swift" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SwiftUI-252B36?style=flat-square&amp;logo=swift&amp;logoColor=F05138" />
+    <img src="https://img.shields.io/badge/SwiftUI-E8EDF4?style=flat-square&amp;logo=swift&amp;logoColor=C53E29" alt="SwiftUI" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-252B36?style=flat-square&amp;logo=python&amp;logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/Python-E8EDF4?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-252B36?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/JavaScript-E8EDF4?style=flat-square&amp;logo=javascript&amp;logoColor=866F00" alt="JavaScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-252B36?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" />
+    <img src="https://img.shields.io/badge/HTML5-E8EDF4?style=flat-square&amp;logo=html5&amp;logoColor=B23E20" alt="HTML5" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-252B36?style=flat-square&amp;logo=css&amp;logoColor=1572B6" />
+    <img src="https://img.shields.io/badge/CSS3-E8EDF4?style=flat-square&amp;logo=css&amp;logoColor=145E93" alt="CSS3" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-252B36?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" />
+    <img src="https://img.shields.io/badge/C-E8EDF4?style=flat-square&amp;logo=c&amp;logoColor=4C6175" alt="C" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Objective--C-252B36?style=flat-square&amp;logo=apple&amp;logoColor=B8C6DD" />
+    <img src="https://img.shields.io/badge/Objective--C-E8EDF4?style=flat-square&amp;logo=apple&amp;logoColor=52647B" alt="Objective-C" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Ruby-252B36?style=flat-square&amp;logo=ruby&amp;logoColor=CC342D" />
+    <img src="https://img.shields.io/badge/Ruby-E8EDF4?style=flat-square&amp;logo=ruby&amp;logoColor=CC342D" alt="Ruby" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bash-252B36?style=flat-square&amp;logo=gnubash&amp;logoColor=4EAA25" />
+    <img src="https://img.shields.io/badge/Bash-E8EDF4?style=flat-square&amp;logo=gnubash&amp;logoColor=34751A" alt="Bash" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Xcode-252B36?style=flat-square&amp;logo=xcode&amp;logoColor=147EFB" />
+    <img src="https://img.shields.io/badge/Xcode-E8EDF4?style=flat-square&amp;logo=xcode&amp;logoColor=145CAD" alt="Xcode" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AppKit-252B36?style=flat-square&amp;logo=apple&amp;logoColor=A4BDF5" />
+    <img src="https://img.shields.io/badge/AppKit-E8EDF4?style=flat-square&amp;logo=apple&amp;logoColor=3459A7" alt="AppKit" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CloudKit-252B36?style=flat-square&amp;logo=icloud&amp;logoColor=3693F3" />
+    <img src="https://img.shields.io/badge/CloudKit-E8EDF4?style=flat-square&amp;logo=icloud&amp;logoColor=1763AE" alt="CloudKit" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AVFoundation-252B36?style=flat-square&amp;logo=applemusic&amp;logoColor=FC3C44" />
+    <img src="https://img.shields.io/badge/AVFoundation-E8EDF4?style=flat-square&amp;logo=applemusic&amp;logoColor=FC3C44" alt="AVFoundation" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Electron-252B36?style=flat-square&amp;logo=electron&amp;logoColor=9FEAF9" />
+    <img src="https://img.shields.io/badge/Electron-E8EDF4?style=flat-square&amp;logo=electron&amp;logoColor=247485" alt="Electron" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-252B36?style=flat-square&amp;logo=nodedotjs&amp;logoColor=5FA04E" />
+    <img src="https://img.shields.io/badge/Node.js-E8EDF4?style=flat-square&amp;logo=nodedotjs&amp;logoColor=3E7431" alt="Node.js" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Three.js-252B36?style=flat-square&amp;logo=threedotjs&amp;logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Three.js-E8EDF4?style=flat-square&amp;logo=threedotjs&amp;logoColor=303946" alt="Three.js" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FFmpeg-252B36?style=flat-square&amp;logo=ffmpeg&amp;logoColor=007808" />
+    <img src="https://img.shields.io/badge/FFmpeg-E8EDF4?style=flat-square&amp;logo=ffmpeg&amp;logoColor=007808" alt="FFmpeg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Playwright-252B36?style=flat-square&amp;logo=playwright&amp;logoColor=2EAD33" />
+    <img src="https://img.shields.io/badge/Playwright-E8EDF4?style=flat-square&amp;logo=playwright&amp;logoColor=22772A" alt="Playwright" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-252B36?style=flat-square&amp;logo=numpy&amp;logoColor=4DABCF" />
+    <img src="https://img.shields.io/badge/NumPy-E8EDF4?style=flat-square&amp;logo=numpy&amp;logoColor=216987" alt="NumPy" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-252B36?style=flat-square&amp;logo=git&amp;logoColor=F05032" />
+    <img src="https://img.shields.io/badge/Git-E8EDF4?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-252B36?style=flat-square&amp;logo=github&amp;logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/GitHub-E8EDF4?style=flat-square&amp;logo=github&amp;logoColor=303946" alt="GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub%20Actions-252B36?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-E8EDF4?style=flat-square&amp;logo=githubactions&amp;logoColor=155DAF" alt="GitHub Actions" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Homebrew-252B36?style=flat-square&amp;logo=homebrew&amp;logoColor=FBB040" />
+    <img src="https://img.shields.io/badge/Homebrew-E8EDF4?style=flat-square&amp;logo=homebrew&amp;logoColor=86560E" alt="Homebrew" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ChatGPT-252B36?style=flat-square&amp;logo=openai&amp;logoColor=10A37F" />
+    <img src="https://img.shields.io/badge/ChatGPT-E8EDF4?style=flat-square&amp;logo=openai&amp;logoColor=08765C" alt="ChatGPT" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OpenAI%20Codex-252B36?style=flat-square&amp;logo=openai&amp;logoColor=10A37F" />
+    <img src="https://img.shields.io/badge/OpenAI%20Codex-E8EDF4?style=flat-square&amp;logo=openai&amp;logoColor=08765C" alt="OpenAI Codex" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Ollama-252B36?style=flat-square&amp;logo=ollama&amp;logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Ollama-E8EDF4?style=flat-square&amp;logo=ollama&amp;logoColor=303946" alt="Ollama" />
+  </picture>
 </p>
 
 ### GitHub at a glance
