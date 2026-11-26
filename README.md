@@ -172,8 +172,8 @@ I build practical tools, thoughtful interfaces, and experiments that help me und
 ### Recent Activity & Projects
 
 <!-- RECENT_ACTIVITY_MANUAL -->
-- **Oct 30, 2026 · [FrameFloat](https://github.com/rogeryeoh49-bot/FrameFloat)** 🖥️ — [Published the source code and macOS installer](https://github.com/rogeryeoh49-bot/FrameFloat/commit/f659190406c5139dcfb5978008371704ed51d4e5) for a lightweight refresh-rate overlay.
-- **Oct 25, 2026 · [CIE Paper Marking Skill](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill)** 🤖 — [Documented one-command setup and put scores on the original first page](https://github.com/rogeryeoh49-bot/cie-paper-marking-skill/commit/271fc893d19edf5d0990c6961b02d2b8bc7e8029).
+- **Nov 24, 2026 · [Radio DIAL](https://github.com/rogeryeoh49-bot/Radio-DIAL)** 📻 — [Added interactive onboarding and Self Radio](https://github.com/rogeryeoh49-bot/Radio-DIAL/commit/8507de73d2ed2dde412dd5f753dc38216a587638).
+- **Nov 10, 2026 · [FrameFloat](https://github.com/rogeryeoh49-bot/FrameFloat)** 🖥️ — [Released v1.1.0 with a mini overlay and hover fade](https://github.com/rogeryeoh49-bot/FrameFloat/commit/d0f0e736f6686c49b621e43fb086a06fec2cb3f0).
 
 ---
 
